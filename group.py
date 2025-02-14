@@ -7,7 +7,7 @@ import os
 import threading
 
 # Your Telegram bot token
-bot = telebot.TeleBot('YOUR_BOT_TOKEN_HERE')
+bot = telebot.TeleBot('7330439352:AAGe4akhUf57yi6wNDRCl44IRoot4ehq3cc')
 
 # Group details
 GROUP_ID = "-1002399798592"
